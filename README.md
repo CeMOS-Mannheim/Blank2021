@@ -1,2 +1,2 @@
 # Blank2021
-Script used to generate Volcano plots used in Blank 2021
+This script was used to generate the Volcano plots in Figures 3A-C in Blank et. al. 2021.
